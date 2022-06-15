@@ -1,0 +1,22 @@
+.col {
+  border: 1px solid blue;
+}
+
+.row {
+  background-color: rgba(173, 132, 215, 0.686);
+}
+
+/* #a {
+    height: 100px;
+    
+} */
+
+#d{
+    border: 1px solid rgb(208, 0, 255);
+    height: 100px;
+}
+
+#b {
+    border: 1px solid blue;
+
+}

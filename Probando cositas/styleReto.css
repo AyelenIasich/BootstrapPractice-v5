@@ -1,0 +1,13 @@
+
+
+.col{
+    border: 1px solid white;
+}
+
+body{
+    margin-top: 10px;
+}
+
+#a{
+    background-color: rgba(17, 210, 174, 0.352);
+}
